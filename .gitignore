@@ -250,3 +250,14 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/PizzaStoreData/PizzaStoreData.DataAccess/App.config
+/PizzaStoreData/PizzaStoreData.DataClient/Web.config
+/PizzaStoreData/PizzaStoreData.DataClient/Web.Debug.config
+/PizzaStoreData/PizzaStoreData.DataClient/Web.Release.config
+/PizzaStoreData/PizzaStoreData.Test/App.config
+/PizzaStoreLogic/PizzaStoreLogic.Logic/app.config
+/PizzaStoreLogic/PizzaStoreLogic.WebClient/Views/web.config
+/PizzaStoreLogic/PizzaStoreLogic.WebClient/Web.config
+/PizzaStoreLogic/PizzaStoreLogic.WebClient/Web.Debug.config
+/PizzaStoreLogic/PizzaStoreLogic.WebClient/Web.Release.config
+*.config
