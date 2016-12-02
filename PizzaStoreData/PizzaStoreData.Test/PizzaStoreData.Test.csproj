@@ -68,11 +68,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EFDataTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PizzaStoreData.DataAccess\PizzaStoreData.DataAccess.csproj">
+      <Project>{F2BF920B-3995-4A25-BABD-039E5C617707}</Project>
+      <Name>PizzaStoreData.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
