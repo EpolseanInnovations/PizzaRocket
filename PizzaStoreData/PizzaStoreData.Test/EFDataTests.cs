@@ -8,7 +8,7 @@ using Xunit;
 
 namespace PizzaStoreData.Test
 {
-    class EFDataTests
+    public class EFDataTests
     {
         #region Test Get List Functions
         [Fact]

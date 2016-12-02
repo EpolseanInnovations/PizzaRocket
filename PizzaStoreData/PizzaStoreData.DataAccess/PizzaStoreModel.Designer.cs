@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Revature\1610-oct17-dotnet\PizzaStoreData\PizzaStoreData.DataAccess\PizzaStoreModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Revature\PizzaRocket\PizzaStoreData\PizzaStoreData.DataAccess\PizzaStoreModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
