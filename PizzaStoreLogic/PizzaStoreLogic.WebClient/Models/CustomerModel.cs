@@ -14,6 +14,6 @@ namespace PizzaStoreLogic.WebClient.Models
 
         public CustomerDTO Customer { get; set; }
         public string ReturnUrl { get; set; }
-        public List<CustomerDTO> Customers { get { return _Customers; } set { _Customers = _Data.GetCustomers(); } }
+        public List<CustomerDTO> Customers { get { return _Customers; } set { _Customers = value; } }
     }
 }
